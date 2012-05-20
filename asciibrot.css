@@ -1,0 +1,21 @@
+#asciibrot {
+	font-family:monospace;
+	font-size:8px;
+	line-height:8px;
+	float:left;
+}
+#controls {
+	float:left;
+	margin-left:25px;
+	margin-top:250px;
+	border:1px solid #000;
+	padding:4px;
+	text-align:center;
+}
+#controls button {
+	width:25px;
+}
+#credit {
+	clear:left;
+	padding-top:25px;
+}
